@@ -11,3 +11,10 @@
   4. run command "npm start"
 
   5. open localhost:9999 on your browser
+
+
+## to get react code
+
+  1. clone the code 
+
+  2. go to ReactCode folder
