@@ -1,0 +1,9 @@
+npm install create-react-app -g
+create-react-app <Project name>
+cd <project name>
+npm start
+
+install bootstrap
+jquery
+install superagent
+install react-router-dom
