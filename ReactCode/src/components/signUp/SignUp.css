@@ -1,0 +1,57 @@
+.signUp{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid rgba(40,52,59,1);
+    box-shadow: -1px 0.5px 5px -0.5px;
+}
+
+.signUp form.formFields{
+    width: 80%;
+    margin: 20px auto;
+    position: relative;
+}
+
+.signUp form.formFields .formField{
+    width: 100%;
+    margin: 0 auto 10px;
+}
+
+.label{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    color: rgba(40,52,59,1);
+    font-weight: 600;
+}
+.input{
+    border: none;
+    border-bottom: 1px solid rgba(40,52,59,1);
+    width: 100%;
+    padding: 2px 0px;
+    outline: none;
+    margin: 10px 0;
+    font-size: 13px;
+}
+label.checkbox{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    color: rgba(40,52,59,1);
+    font-weight: 500;
+}
+.form_chkbox{
+    margin-right: 10px;
+}
+.btn{
+    background: #3d4a6e;
+    color: white;
+    outline: none;
+}
+.btn:hover{
+    background: rgba(40,52,59,1);
+    transition: 3ms;
+}
+.errorMessage{
+    color: red;
+}
