@@ -3,7 +3,8 @@ create-react-app <Project name>
 cd <project name>
 npm start
 
-install bootstrap
+npm install bootstrap
 jquery
-install superagent
-install react-router-dom
+npm install superagent
+npm install react-router-dom
+if need( npm i axios, npm i json-server -> json-server --watch <filename>)
